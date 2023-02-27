@@ -3,7 +3,7 @@ import os
 import datetime
 from utils import augment_triplet, evaluate
 
-dataset = 'data/FB15k'
+dataset = 'data/FB15k-237'
 path = './record'
 
 iterations = 2
